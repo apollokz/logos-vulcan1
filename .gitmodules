@@ -1,0 +1,6 @@
+[submodule "logos1"]
+	path = logos1
+	url = https://github.com/apollokz/logos1.git
+[submodule "logos-orchestrator1"]
+	path = logos-orchestrator1
+	url = https://github.com/apollokz/logos-orchestrator1.git
